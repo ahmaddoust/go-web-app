@@ -1,0 +1,22 @@
+body {
+    min-height: 140%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000; /* Optional: Set a background color */
+    margin: 0;
+}
+
+.hello {
+    font-size: 2rem;
+    font-family: 'Arial', Tahoma, Geneva, 'Times New Roman', sans-serif;
+    color: lightgreen;
+    text-align: center;
+}
+
+.center {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
